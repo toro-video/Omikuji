@@ -1,1 +1,1 @@
-"# Omikuji" 
+## Omikuji Game  
